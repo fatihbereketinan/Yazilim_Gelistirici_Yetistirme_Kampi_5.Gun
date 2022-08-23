@@ -1,0 +1,14 @@
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\bin\Debug\netcoreapp3.1\OOP2.exe
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\bin\Debug\netcoreapp3.1\OOP2.deps.json
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\bin\Debug\netcoreapp3.1\OOP2.runtimeconfig.json
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\bin\Debug\netcoreapp3.1\OOP2.runtimeconfig.dev.json
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\bin\Debug\netcoreapp3.1\OOP2.dll
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\bin\Debug\netcoreapp3.1\OOP2.pdb
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.AssemblyInfo.cs
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.dll
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.pdb
+C:\Users\fatih\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.genruntimeconfig.cache
